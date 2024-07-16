@@ -1,0 +1,239 @@
+ACCIDENT_NO,ACCIDENT_DATE,ACCIDENT_TIME,ACCIDENT_TYPE,ACCIDENT_TYPE_DESC,DAY_OF_WEEK,DAY_WEEK_DESC,DCA_CODE,DCA_DESC,LIGHT_CONDITION,NODE_ID,ROAD_GEOMETRY_DESC,SEVERITY,SPEED_ZONE,RMA
+T20230021584,1/9/2023,23:00:00,1,Collision with vehicle,5,Friday,148,VEHICLE OFF FOOTPATH STRIKES VEH ON CARRIAGEWAY,6,291551,Cross intersection,3,40,Local Road
+T20230020472,1/9/2023,19:16:00,1,Collision with vehicle,6,Friday,110,CROSS TRAFFIC(INTERSECTIONS ONLY),3,43085,Cross intersection,2,60,Arterial Highway
+T20230021436,1/9/2023,14:00:00,1,Collision with vehicle,5,Friday,137,LEFT TURN SIDESWIPE,1,65471,Cross intersection,3,50,Local Road
+T20230020459,1/9/2023,13:45:00,1,Collision with vehicle,6,Friday,140,U TURN,1,780834,T intersection,2,60,Local Road
+T20230020457,1/9/2023,16:48:00,1,Collision with vehicle,6,Friday,129,OTHER OPPOSING MANOEUVRES NOT INCLUDED IN DCAs 120-125.,1,29870,T intersection,3,80,Freeway
+T20230020430,1/9/2023,12:03:00,1,Collision with vehicle,6,Friday,113,RIGHT NEAR (INTERSECTIONS ONLY),1,244,T intersection,2,80,Arterial Highway
+T20230020517,1/9/2023,17:00:00,1,Collision with vehicle,5,Friday,130,REAR END(VEHICLES IN SAME LANE),2,780130,Not at intersection,3,60,Arterial Other
+T20230020754,1/9/2023,14:05:00,1,Collision with vehicle,5,Friday,130,REAR END(VEHICLES IN SAME LANE),1,780580,Not at intersection,3,80,Arterial Highway
+T20230020425,1/9/2023,11:38:00,1,Collision with vehicle,6,Friday,131,LEFT REAR,1,782174,T intersection,2,50,Local Road
+T20230020711,1/9/2023,17:10:00,1,Collision with vehicle,5,Friday,130,REAR END(VEHICLES IN SAME LANE),2,780773,Not at intersection,3,60,Arterial Other
+T20230020485,1/9/2023,19:28:00,4,Collision with a fixed object,5,Friday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE,3,789878,Not at intersection,3,60,Local Road
+T20230020460,1/9/2023,16:40:00,1,Collision with vehicle,6,Friday,130,REAR END(VEHICLES IN SAME LANE),2,780183,Not at intersection,2,70,Arterial Highway
+T20230020479,1/9/2023,18:30:00,1,Collision with vehicle,5,Friday,121,RIGHT THROUGH,3,55795,Cross intersection,2,80,Arterial Other
+T20230020414,1/9/2023,09:15:00,1,Collision with vehicle,5,Friday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD,1,780006,Not at intersection,3,40,Local Road
+T20230020455,1/9/2023,16:10:00,1,Collision with vehicle,6,Friday,111,RIGHT FAR (INTERSECTIONS ONLY),1,46493,T intersection,3,40,Local Road
+T20230021546,1/9/2023,15:30:00,1,Collision with vehicle,5,Friday,121,RIGHT THROUGH,1,45641,T intersection,3,60,Arterial Other
+T20230020473,1/9/2023,14:54:00,1,Collision with vehicle,6,Friday,120,HEAD ON (NOT OVERTAKING),1,783503,Not at intersection,2,40,Arterial Other
+T20230020490,1/9/2023,22:45:00,4,Collision with a fixed object,6,Friday,181,OFF RIGHT BEND INTO OBJECT/PARKED VEHICLE,5,780629,Not at intersection,2,100,Local Road
+T20230020478,1/9/2023,15:30:00,6,Vehicle overturned (no collision),6,Friday,174,OUT OF CONTROL ON CARRIAGEWAY (ON STRAIGHT),1,236644,Not at intersection,2,100,Freeway
+T20230020470,1/9/2023,17:55:00,6,Vehicle overturned (no collision),5,Friday,174,OUT OF CONTROL ON CARRIAGEWAY (ON STRAIGHT),2,789875,Not at intersection,3,60,Arterial Other
+T20230020422,1/9/2023,08:00:00,1,Collision with vehicle,6,Friday,130,REAR END(VEHICLES IN SAME LANE),1,790137,Not at intersection,3,80,Arterial Highway
+T20230020456,1/9/2023,16:14:00,1,Collision with vehicle,6,Friday,148,VEHICLE OFF FOOTPATH STRIKES VEH ON CARRIAGEWAY,1,792249,T intersection,2,50,Local Road
+T20230020420,1/9/2023,11:13:00,1,Collision with vehicle,5,Friday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD,1,780007,Not at intersection,3,50,Local Road
+T20230020434,1/9/2023,12:50:00,1,Collision with vehicle,6,Friday,130,REAR END(VEHICLES IN SAME LANE),1,780181,Not at intersection,3,60,Freeway
+T20230020436,1/9/2023,12:15:00,4,Collision with a fixed object,5,Friday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE,1,789858,Not at intersection,3,100,Local Road
+T20230020462,1/9/2023,18:11:00,1,Collision with vehicle,5,Friday,140,U TURN,3,782175,T intersection,3,40,Arterial Other
+T20230020448,1/9/2023,12:45:00,6,Vehicle overturned (no collision),5,Friday,170,OFF CARRIAGEWAY TO LEFT,1,789510,Not at intersection,2,100,Local Road
+T20230020469,1/9/2023,18:20:00,1,Collision with vehicle,6,Friday,110,CROSS TRAFFIC(INTERSECTIONS ONLY),2,44819,Cross intersection,3,50,Local Road
+T20230021236,1/9/2023,12:10:00,1,Collision with vehicle,5,Friday,115,RIGHT/LEFT FAR (INTERSECTIONS ONLY),1,50951,T intersection,3,60,Arterial Other
+T20230020949,1/9/2023,20:00:00,1,Collision with vehicle,6,Friday,130,REAR END(VEHICLES IN SAME LANE),3,780772,Not at intersection,3,70,Arterial Other
+T20230021359,1/9/2023,15:30:00,1,Collision with vehicle,5,Friday,113,RIGHT NEAR (INTERSECTIONS ONLY),1,56014,T intersection,3,60,Arterial Other
+T20230020491,1/9/2023,22:51:00,4,Collision with a fixed object,5,Friday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE,3,799752,Not at intersection,3,80,Local Road
+T20230020416,1/9/2023,01:30:00,4,Collision with a fixed object,5,Friday,181,OFF RIGHT BEND INTO OBJECT/PARKED VEHICLE,5,790136,Not at intersection,3,100,Arterial Highway
+T20230020480,1/9/2023,20:23:00,1,Collision with vehicle,5,Friday,121,RIGHT THROUGH,3,782725,T intersection,2,60,Local Road
+T20230020464,1/9/2023,17:24:00,1,Collision with vehicle,6,Friday,130,REAR END(VEHICLES IN SAME LANE),2,780679,Not at intersection,2,60,Arterial Other
+T20230020415,1/9/2023,08:45:00,1,Collision with vehicle,6,Friday,116,LEFT NEAR (INTERSECTIONS ONLY),1,789879,T intersection,3,60,Arterial Other
+T20230020835,1/9/2023,08:00:00,1,Collision with vehicle,5,Friday,120,HEAD ON (NOT OVERTAKING),1,791526,Not at intersection,3,40,Arterial Other
+T20230020502,2/9/2023,09:55:00,1,Collision with vehicle,6,Saturday,121,RIGHT THROUGH,1,70726,Cross intersection,3,80,Arterial Highway
+T20230020504,2/9/2023,10:40:00,1,Collision with vehicle,7,Saturday,111,RIGHT FAR (INTERSECTIONS ONLY),1,780064,Cross intersection,2,40,Local Road
+T20230020838,2/9/2023,13:35:00,1,Collision with vehicle,6,Saturday,130,REAR END(VEHICLES IN SAME LANE),1,780527,Y intersection,3,70,Arterial Highway
+T20230020534,2/9/2023,16:46:00,1,Collision with vehicle,6,Saturday,116,LEFT NEAR (INTERSECTIONS ONLY),1,43610,T intersection,3,80,Arterial Other
+T20230020535,2/9/2023,16:02:00,1,Collision with vehicle,7,Saturday,121,RIGHT THROUGH,1,780066,Cross intersection,3,60,Local Road
+T20230020527,2/9/2023,14:26:00,1,Collision with vehicle,7,Saturday,113,RIGHT NEAR (INTERSECTIONS ONLY),1,36737,T intersection,2,80,Arterial Highway
+T20230020538,2/9/2023,14:47:00,1,Collision with vehicle,6,Saturday,121,RIGHT THROUGH,1,38707,T intersection,2,60,Arterial Other
+T20230022284,2/9/2023,14:00:00,1,Collision with vehicle,6,Saturday,130,REAR END(VEHICLES IN SAME LANE),1,781481,T intersection,3,60,Local Road
+T20230020523,2/9/2023,16:25:00,1,Collision with vehicle,6,Saturday,113,RIGHT NEAR (INTERSECTIONS ONLY),1,61460,T intersection,2,50,Local Road
+T20230023126,2/9/2023,18:10:00,3,Struck animal,6,Saturday,167,STRUCK ANIMAL,3,789880,Not at intersection,3,80,Local Road
+T20230023087,2/9/2023,11:26:00,1,Collision with vehicle,7,Saturday,110,CROSS TRAFFIC(INTERSECTIONS ONLY),1,70081,Cross intersection,2,60,Arterial Other
+T20230021947,2/9/2023,14:00:00,5,collision with some other object,6,Saturday,166,STRUCK OBJECT ON CARRIAGEWAY,1,781156,Not at intersection,3,60,Local Road
+T20230021234,2/9/2023,14:14:00,1,Collision with vehicle,6,Saturday,150,HEAD ON(OVERTAKING),1,780759,Not at intersection,3,50,Local Road
+T20230020516,2/9/2023,14:38:00,6,Vehicle overturned (no collision),6,Saturday,180,OFF CARRIAGEWAY ON RIGHT BEND,1,792243,Not at intersection,2,70,Local Road
+T20230020510,2/9/2023,12:25:00,1,Collision with vehicle,7,Saturday,130,REAR END(VEHICLES IN SAME LANE),1,780182,Not at intersection,2,70,Arterial Highway
+T20230020585,2/9/2023,21:45:00,1,Collision with vehicle,6,Saturday,130,REAR END(VEHICLES IN SAME LANE),6,38690,T intersection,3,60,Arterial Other
+T20230020583,2/9/2023,13:00:00,6,Vehicle overturned (no collision),6,Saturday,182,OFF CARRIAGEWAY ON LEFT BEND,1,781476,Not at intersection,3,80,Arterial Other
+T20230024935,2/9/2023,10:30:00,4,Collision with a fixed object,6,Saturday,181,OFF RIGHT BEND INTO OBJECT/PARKED VEHICLE,1,789888,Not at intersection,3,50,Local Road
+T20230022001,2/9/2023,08:10:00,1,Collision with vehicle,6,Saturday,113,RIGHT NEAR (INTERSECTIONS ONLY),1,297471,Cross intersection,3,40,Arterial Other
+T20230020571,2/9/2023,23:30:00,1,Collision with vehicle,7,Saturday,130,REAR END(VEHICLES IN SAME LANE),3,788512,T intersection,2,100,Arterial Other
+T20230020566,2/9/2023,23:00:00,4,Collision with a fixed object,6,Saturday,181,OFF RIGHT BEND INTO OBJECT/PARKED VEHICLE,3,790135,Not at intersection,3,60,Local Road
+T20230022508,2/9/2023,11:30:00,1,Collision with vehicle,7,Saturday,130,REAR END(VEHICLES IN SAME LANE),1,789887,Not at intersection,2,60,Local Road
+T20230020700,2/9/2023,20:30:00,1,Collision with vehicle,6,Saturday,130,REAR END(VEHICLES IN SAME LANE),3,781142,Not at intersection,3,60,Arterial Other
+T20230020689,2/9/2023,11:30:00,6,Vehicle overturned (no collision),6,Saturday,180,OFF CARRIAGEWAY ON RIGHT BEND,1,789889,Cross intersection,3,60,Arterial Highway
+T20230020959,2/9/2023,14:30:00,6,Vehicle overturned (no collision),6,Saturday,184,OUT OF CONTROL ON CARRIAGEWAY (ON BEND),1,789896,T intersection,3,100,Local Road
+T20230020514,2/9/2023,13:34:00,1,Collision with vehicle,7,Saturday,121,RIGHT THROUGH,1,41121,Cross intersection,2,60,Arterial Other
+T20230020500,2/9/2023,08:42:00,4,Collision with a fixed object,7,Saturday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE,1,792242,T intersection,2,50,Local Road
+T20230020515,2/9/2023,13:55:00,1,Collision with vehicle,7,Saturday,121,RIGHT THROUGH,1,294710,T intersection,3,60,Arterial Other
+T20230020512,2/9/2023,13:10:00,1,Collision with vehicle,6,Saturday,113,RIGHT NEAR (INTERSECTIONS ONLY),1,789876,T intersection,3,60,Arterial Other
+T20230020529,2/9/2023,17:15:00,4,Collision with a fixed object,7,Saturday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE,1,109,Cross intersection,2,60,Local Road
+T20230024056,2/9/2023,12:50:00,1,Collision with vehicle,6,Saturday,133,LANE SIDE SWIPE (VEHICLES IN PARALLEL LANES),1,691622,Not at intersection,3,60,Local Road
+T20230021618,2/9/2023,18:00:00,1,Collision with vehicle,6,Saturday,133,LANE SIDE SWIPE (VEHICLES IN PARALLEL LANES),1,29474,T intersection,3,40,Arterial Other
+T20230021044,2/9/2023,13:22:00,1,Collision with vehicle,7,Saturday,130,REAR END(VEHICLES IN SAME LANE),1,683016,Not at intersection,3,100,Freeway
+T20230020561,2/9/2023,21:11:00,1,Collision with vehicle,7,Saturday,150,HEAD ON(OVERTAKING),3,44929,Cross intersection,3,40,Local Road
+T20230020560,2/9/2023,22:05:00,1,Collision with vehicle,7,Saturday,150,HEAD ON(OVERTAKING),3,780579,Not at intersection,2,60,Local Road
+T20230020559,2/9/2023,15:43:00,1,Collision with vehicle,7,Saturday,121,RIGHT THROUGH,1,355539,Not at intersection,2,80,Arterial Highway
+T20230020554,2/9/2023,16:44:00,1,Collision with vehicle,6,Saturday,131,LEFT REAR,2,54903,Y intersection,3,100,Arterial Other
+T20230020553,2/9/2023,14:55:00,1,Collision with vehicle,7,Saturday,121,RIGHT THROUGH,1,595452,T intersection,2,100,Freeway
+T20230020551,2/9/2023,20:00:00,1,Collision with vehicle,6,Saturday,110,CROSS TRAFFIC(INTERSECTIONS ONLY),3,29812,Cross intersection,3,40,Local Road
+T20230020542,2/9/2023,17:59:00,4,Collision with a fixed object,6,Saturday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE,1,792247,Not at intersection,2,80,Local Road
+T20230022824,3/9/2023,01:00:00,2,Struck Pedestrian,0,Sunday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT,3,268853,Cross intersection,3,60,Arterial Other
+T20230023545,3/9/2023,11:00:00,1,Collision with vehicle,0,Sunday,130,REAR END(VEHICLES IN SAME LANE),1,789706,Cross intersection,3,60,Local Road
+T20230020591,3/9/2023,10:56:00,9,Other accident,1,Sunday,149,OTHER MANOEUVRING NOT INCLUDED IN DCAs 140-148,1,780470,Not at intersection,2,50,Local Road
+T20230020876,3/9/2023,10:20:00,1,Collision with vehicle,0,Sunday,110,CROSS TRAFFIC(INTERSECTIONS ONLY),1,41066,Cross intersection,2,60,Arterial Other
+T20230021855,3/9/2023,16:10:00,1,Collision with vehicle,0,Sunday,112,LEFT FAR (INTERSECTIONS ONLY),1,42906,T intersection,3,60,Local Road
+T20230020599,3/9/2023,12:22:00,1,Collision with vehicle,1,Sunday,110,CROSS TRAFFIC(INTERSECTIONS ONLY),1,789724,Cross intersection,3,60,Arterial Other
+T20230020605,3/9/2023,13:10:00,4,Collision with a fixed object,0,Sunday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE,1,789698,Not at intersection,3,100,Arterial Other
+T20230020567,3/9/2023,01:22:00,4,Collision with a fixed object,1,Sunday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE,5,793815,T intersection,1,80,Local Road
+T20230020600,3/9/2023,12:40:00,2,Struck Pedestrian,1,Sunday,108,PED STRUCK WALKING TO/FROM OR BOARDING/ALIGHTING VEHICLE.,1,789708,Not at intersection,3,50,Local Road
+T20230021305,3/9/2023,21:00:00,8,No collision and no object struck,0,Sunday,174,OUT OF CONTROL ON CARRIAGEWAY (ON STRAIGHT),6,780591,Not at intersection,3,40,Local Road
+T20230020608,3/9/2023,15:13:00,1,Collision with vehicle,1,Sunday,121,RIGHT THROUGH,1,780949,Cross intersection,3,30,Arterial Other
+T20230020611,3/9/2023,15:13:00,1,Collision with vehicle,0,Sunday,111,RIGHT FAR (INTERSECTIONS ONLY),1,47131,T intersection,3,40,Arterial Other
+T20230020613,3/9/2023,15:33:00,1,Collision with vehicle,0,Sunday,135,LANE CHANGE LEFT (NOT OVERTAKING),1,780131,Not at intersection,3,70,Arterial Other
+T20230020594,3/9/2023,11:30:00,1,Collision with vehicle,1,Sunday,121,RIGHT THROUGH,1,44884,Cross intersection,2,70,Local Road
+T20230020614,3/9/2023,15:40:00,1,Collision with vehicle,0,Sunday,120,HEAD ON (NOT OVERTAKING),1,38409,T intersection,3,60,Arterial Other
+T20230022042,3/9/2023,13:00:00,2,Struck Pedestrian,0,Sunday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.,1,781428,Not at intersection,3,60,Local Road
+T20230020615,3/9/2023,17:10:00,1,Collision with vehicle,0,Sunday,110,CROSS TRAFFIC(INTERSECTIONS ONLY),1,52701,Cross intersection,3,60,Local Road
+T20230020624,3/9/2023,19:15:00,1,Collision with vehicle,0,Sunday,121,RIGHT THROUGH,2,278616,Cross intersection,3,80,Freeway
+T20230020625,3/9/2023,17:00:00,1,Collision with vehicle,1,Sunday,150,HEAD ON(OVERTAKING),1,794016,Not at intersection,2,100,Arterial Highway
+T20230021891,3/9/2023,17:00:00,1,Collision with vehicle,0,Sunday,145,REVERSING IN STREAM OF TRAFFIC,1,789714,Not at intersection,3,60,Arterial Other
+T20230020630,3/9/2023,16:46:00,1,Collision with vehicle,1,Sunday,130,REAR END(VEHICLES IN SAME LANE),1,780132,Not at intersection,3,100,Freeway
+T20230020765,3/9/2023,15:44:00,4,Collision with a fixed object,0,Sunday,181,OFF RIGHT BEND INTO OBJECT/PARKED VEHICLE,1,783542,Not at intersection,3,50,Local Road
+T20230020762,3/9/2023,12:40:00,1,Collision with vehicle,1,Sunday,121,RIGHT THROUGH,1,702694,T intersection,3,60,Arterial Other
+T20230025391,3/9/2023,11:10:00,1,Collision with vehicle,0,Sunday,147,VEHICLE STRIKES ANOTHER VEH WHILE EMERGING FROM DRIVEWAY,1,789713,Not at intersection,3,60,Arterial Highway
+T20230020635,3/9/2023,18:40:00,1,Collision with vehicle,1,Sunday,120,HEAD ON (NOT OVERTAKING),2,780047,Not at intersection,1,80,Local Road
+T20230020913,3/9/2023,23:32:00,2,Struck Pedestrian,0,Sunday,103,PED PLAYING/LYING/WORKING/STANDING ON CARRIAGEWAY.,9,780370,Not at intersection,1,50,Local Road
+T20230022157,3/9/2023,17:30:00,4,Collision with a fixed object,0,Sunday,151,OUT OF CONTROL (OVERTAKING),2,39076,T intersection,3,60,Local Road
+T20230022621,3/9/2023,18:30:00,1,Collision with vehicle,0,Sunday,130,REAR END(VEHICLES IN SAME LANE),2,36072,Cross intersection,3,80,Arterial Other
+T20230020680,3/9/2023,14:18:00,1,Collision with vehicle,0,Sunday,113,RIGHT NEAR (INTERSECTIONS ONLY),1,44240,T intersection,3,60,Arterial Other
+T20230021332,3/9/2023,13:30:00,1,Collision with vehicle,1,Sunday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD,1,780857,Not at intersection,3,60,Arterial Other
+T20230021451,3/9/2023,15:00:00,6,Vehicle overturned (no collision),1,Sunday,184,OUT OF CONTROL ON CARRIAGEWAY (ON BEND),1,780843,Not at intersection,2,100,Local Road
+T20230020712,3/9/2023,14:30:00,1,Collision with vehicle,1,Sunday,130,REAR END(VEHICLES IN SAME LANE),1,239553,Cross intersection,3,50,Local Road
+T20230020570,3/9/2023,01:52:00,1,Collision with vehicle,1,Sunday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD,3,789398,Not at intersection,2,60,Arterial Highway
+T20230020784,4/9/2023,20:43:00,1,Collision with vehicle,2,Monday,130,REAR END(VEHICLES IN SAME LANE),3,290258,Cross intersection,2,60,Arterial Other
+T20230020670,4/9/2023,10:00:00,2,Struck Pedestrian,1,Monday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.,1,782415,T intersection,3,70,Local Road
+T20230020697,4/9/2023,14:34:00,1,Collision with vehicle,2,Monday,121,RIGHT THROUGH,1,49826,Cross intersection,2,60,Arterial Highway
+T20230020695,4/9/2023,13:00:00,4,Collision with a fixed object,2,Monday,183,OFF LEFT BEND INTO OBJECT/PARKED VEHICLE,1,780108,Not at intersection,1,100,Local Road
+T20230025150,4/9/2023,21:00:00,4,Collision with a fixed object,1,Monday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE,3,784181,Not at intersection,3,100,Freeway
+T20230020725,4/9/2023,23:39:00,1,Collision with vehicle,2,Monday,121,RIGHT THROUGH,3,36321,Cross intersection,3,80,Arterial Highway
+T20230021431,4/9/2023,20:15:00,1,Collision with vehicle,1,Monday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD,5,781424,Not at intersection,3,60,Local Road
+T20230020692,4/9/2023,13:30:00,1,Collision with vehicle,1,Monday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE,1,127112,Not at intersection,3,60,Local Road
+T20230021368,4/9/2023,17:00:00,1,Collision with vehicle,1,Monday,133,LANE SIDE SWIPE (VEHICLES IN PARALLEL LANES),2,790148,Not at intersection,3,60,Local Road
+T20230021347,4/9/2023,14:49:00,1,Collision with vehicle,2,Monday,121,RIGHT THROUGH,1,279266,Cross intersection,3,50,Arterial Other
+T20230020674,4/9/2023,08:47:00,1,Collision with vehicle,1,Monday,130,REAR END(VEHICLES IN SAME LANE),1,799708,T intersection,3,70,Arterial Other
+T20230022304,4/9/2023,15:40:00,1,Collision with vehicle,1,Monday,121,RIGHT THROUGH,1,300547,T intersection,3,80,Arterial Other
+T20230023395,4/9/2023,14:40:00,1,Collision with vehicle,2,Monday,112,LEFT FAR (INTERSECTIONS ONLY),1,51124,T intersection,3,60,Local Road
+T20230023232,4/9/2023,09:00:00,7,Fall from or in moving vehicle,1,Monday,190,FELL IN/FROM VEHICLE,1,789682,Not at intersection,3,40,Arterial Other
+T20230020763,4/9/2023,22:15:00,4,Collision with a fixed object,1,Monday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE,5,789678,Not at intersection,3,60,Local Road
+T20230023186,4/9/2023,08:19:00,1,Collision with vehicle,1,Monday,132,RIGHT REAR.,1,799643,T intersection,3,50,Local Road
+T20230020770,4/9/2023,17:10:00,1,Collision with vehicle,1,Monday,130,REAR END(VEHICLES IN SAME LANE),2,780494,Not at intersection,3,50,Arterial Other
+T20230020652,4/9/2023,08:30:00,2,Struck Pedestrian,2,Monday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.,1,789675,Not at intersection,2,50,Local Road
+T20230020672,4/9/2023,12:04:00,1,Collision with vehicle,1,Monday,130,REAR END(VEHICLES IN SAME LANE),1,780447,Not at intersection,3,80,Arterial Other
+T20230020702,4/9/2023,15:24:00,1,Collision with vehicle,1,Monday,175,OFF END OF ROAD/T-INTERSECTION.,1,789679,T intersection,3,100,Arterial Other
+T20230020701,4/9/2023,16:58:00,2,Struck Pedestrian,2,Monday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.,1,41977,Cross intersection,2,80,Arterial Highway
+T20230024438,4/9/2023,18:40:00,1,Collision with vehicle,1,Monday,110,CROSS TRAFFIC(INTERSECTIONS ONLY),3,36289,Cross intersection,3,50,Local Road
+T20230021934,4/9/2023,18:30:00,1,Collision with vehicle,1,Monday,110,CROSS TRAFFIC(INTERSECTIONS ONLY),3,41066,Cross intersection,3,60,Arterial Other
+T20230020664,4/9/2023,09:06:00,1,Collision with vehicle,1,Monday,179,OTHER ACCIDENTS-OFF STRAIGHT NOT INCLUDED IN DCAs 170-175,1,781420,Not at intersection,3,60,Local Road
+T20230020639,4/9/2023,00:50:00,2,Struck Pedestrian,1,Monday,103,PED PLAYING/LYING/WORKING/STANDING ON CARRIAGEWAY.,3,44578,T intersection,3,60,Arterial Other
+T20230020852,4/9/2023,19:20:00,1,Collision with vehicle,1,Monday,130,REAR END(VEHICLES IN SAME LANE),2,780307,Not at intersection,3,50,Local Road
+T20230020658,4/9/2023,08:40:00,1,Collision with vehicle,2,Monday,130,REAR END(VEHICLES IN SAME LANE),2,780134,Not at intersection,3,100,Freeway
+T20230020648,4/9/2023,06:25:00,4,Collision with a fixed object,2,Monday,181,OFF RIGHT BEND INTO OBJECT/PARKED VEHICLE,2,793953,Not at intersection,3,80,Local Road
+T20230020653,4/9/2023,07:41:00,4,Collision with a fixed object,2,Monday,175,OFF END OF ROAD/T-INTERSECTION.,1,71373,T intersection,2,100,Arterial Other
+T20230020650,4/9/2023,07:10:00,1,Collision with vehicle,2,Monday,116,LEFT NEAR (INTERSECTIONS ONLY),1,791267,T intersection,2,60,Arterial Other
+T20230020657,4/9/2023,08:24:00,1,Collision with vehicle,2,Monday,134,LANE CHANGE RIGHT (NOT OVERTAKING),1,780133,Not at intersection,2,60,Arterial Other
+T20230020720,4/9/2023,21:10:00,2,Struck Pedestrian,2,Monday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.,6,780472,Not at intersection,2,50,Local Road
+T20230020719,4/9/2023,21:03:00,4,Collision with a fixed object,1,Monday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE,3,783101,Not at intersection,3,80,Arterial Highway
+T20230020644,4/9/2023,05:38:00,1,Collision with vehicle,2,Monday,132,RIGHT REAR.,5,799380,T intersection,3,60,Arterial Other
+T20230020645,4/9/2023,06:25:00,1,Collision with vehicle,1,Monday,121,RIGHT THROUGH,2,36389,T intersection,2,80,Arterial Other
+T20230020654,4/9/2023,06:52:00,4,Collision with a fixed object,1,Monday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE,2,789737,Not at intersection,3,60,Local Road
+T20230020826,4/9/2023,05:40:00,3,Struck animal,2,Monday,167,STRUCK ANIMAL,5,780474,Not at intersection,2,50,Local Road
+T20230020779,5/9/2023,08:58:00,1,Collision with vehicle,2,Tuesday,111,RIGHT FAR (INTERSECTIONS ONLY),2,780836,T intersection,3,50,Local Road
+T20230020775,5/9/2023,11:37:00,4,Collision with a fixed object,3,Tuesday,181,OFF RIGHT BEND INTO OBJECT/PARKED VEHICLE,1,780835,Not at intersection,2,50,Local Road
+T20230020727,5/9/2023,01:10:00,3,Struck animal,2,Tuesday,167,STRUCK ANIMAL,5,799631,Not at intersection,3,100,Arterial Highway
+T20230026918,5/9/2023,10:41:00,1,Collision with vehicle,2,Tuesday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD,1,799705,Not at intersection,3,60,Arterial Other
+T20230020737,5/9/2023,07:00:00,1,Collision with vehicle,2,Tuesday,130,REAR END(VEHICLES IN SAME LANE),2,780233,Not at intersection,3,80,Arterial Highway
+T20230020732,5/9/2023,05:10:00,3,Struck animal,2,Tuesday,167,STRUCK ANIMAL,2,780232,Not at intersection,3,100,Arterial Other
+T20230020843,5/9/2023,16:00:00,1,Collision with vehicle,2,Tuesday,121,RIGHT THROUGH,1,38982,T intersection,3,60,Arterial Other
+T20230020752,5/9/2023,09:40:00,1,Collision with vehicle,3,Tuesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY),1,38167,Cross intersection,2,60,Arterial Other
+T20230020757,5/9/2023,09:05:00,1,Collision with vehicle,2,Tuesday,140,U TURN,1,785449,T intersection,3,50,Local Road
+T20230020897,5/9/2023,23:45:00,1,Collision with vehicle,2,Tuesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY),3,42484,Cross intersection,2,50,Local Road
+T20230027977,5/9/2023,16:24:00,1,Collision with vehicle,3,Tuesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY),1,48603,Cross intersection,3,60,Local Road
+T20230027191,5/9/2023,15:23:00,8,No collision and no object struck,3,Tuesday,170,OFF CARRIAGEWAY TO LEFT,1,787830,Not at intersection,2,60,Arterial Other
+T20230020895,5/9/2023,17:05:00,6,Vehicle overturned (no collision),3,Tuesday,174,OUT OF CONTROL ON CARRIAGEWAY (ON STRAIGHT),1,780528,Cross intersection,2,60,Arterial Other
+T20230021249,5/9/2023,16:30:00,1,Collision with vehicle,3,Tuesday,132,RIGHT REAR.,1,780760,Not at intersection,3,60,Arterial Highway
+T20230020804,5/9/2023,16:02:00,2,Struck Pedestrian,2,Tuesday,101,PED EMERGES FROM IN FRONT OF PARKED OR STATIONARY VEHICLE,1,46654,Y intersection,3,60,Arterial Other
+T20230026260,5/9/2023,09:00:00,1,Collision with vehicle,2,Tuesday,130,REAR END(VEHICLES IN SAME LANE),2,786399,Not at intersection,3,80,Freeway
+T20230020820,5/9/2023,23:05:00,1,Collision with vehicle,3,Tuesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY),3,54438,Cross intersection,3,60,Arterial Highway
+T20230020819,5/9/2023,20:50:00,1,Collision with vehicle,3,Tuesday,120,HEAD ON (NOT OVERTAKING),5,782494,Not at intersection,2,80,Local Road
+T20230021490,5/9/2023,07:30:00,1,Collision with vehicle,2,Tuesday,122,LEFT THROUGH,2,780951,T intersection,3,80,Arterial Other
+T20230020814,5/9/2023,15:50:00,1,Collision with vehicle,3,Tuesday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD,1,790360,Not at intersection,3,50,Arterial Highway
+T20230020812,5/9/2023,18:50:00,4,Collision with a fixed object,2,Tuesday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE,3,799683,Not at intersection,2,60,Arterial Other
+T20230020810,5/9/2023,17:20:00,1,Collision with vehicle,3,Tuesday,154,PULLING OUT -REAR END,2,784073,Not at intersection,2,100,Local Road
+T20230020800,5/9/2023,17:08:00,1,Collision with vehicle,2,Tuesday,113,RIGHT NEAR (INTERSECTIONS ONLY),2,226252,T intersection,3,60,Local Road
+T20230020782,5/9/2023,14:43:00,1,Collision with vehicle,2,Tuesday,130,REAR END(VEHICLES IN SAME LANE),1,799632,Not at intersection,3,40,Arterial Highway
+T20230020799,5/9/2023,17:30:00,1,Collision with vehicle,2,Tuesday,139,OTHER SAME DIRECTION-MANOUEVRES NOT INCLUDED IN DCAs 130-137,2,790537,Not at intersection,3,70,Arterial Other
+T20230029519,5/9/2023,21:00:00,8,No collision and no object struck,3,Tuesday,172,OFF CARRIAGEWAY TO RIGHT,5,792196,Not at intersection,3,100,Arterial Other
+T20230020922,5/9/2023,20:00:00,6,Vehicle overturned (no collision),2,Tuesday,174,OUT OF CONTROL ON CARRIAGEWAY (ON STRAIGHT),2,780407,Not at intersection,3,40,Local Road
+T20230020743,5/9/2023,10:30:00,1,Collision with vehicle,2,Tuesday,113,RIGHT NEAR (INTERSECTIONS ONLY),1,780397,T intersection,3,70,Arterial Other
+T20230020794,5/9/2023,17:40:00,1,Collision with vehicle,2,Tuesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY),1,243544,Cross intersection,3,60,Local Road
+T20230020805,5/9/2023,14:32:00,4,Collision with a fixed object,2,Tuesday,179,OTHER ACCIDENTS-OFF STRAIGHT NOT INCLUDED IN DCAs 170-175,1,783307,Not at intersection,3,60,Local Road
+T20230020862,6/9/2023,15:41:00,1,Collision with vehicle,3,Wednesday,121,RIGHT THROUGH,1,665580,T intersection,3,60,Local Road
+T20230020863,6/9/2023,11:44:00,1,Collision with vehicle,3,Wednesday,113,RIGHT NEAR (INTERSECTIONS ONLY),1,580288,T intersection,3,60,Arterial Other
+T20230020867,6/9/2023,15:07:00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE),1,50214,Cross intersection,2,40,Arterial Highway
+T20230020868,6/9/2023,15:27:00,2,Struck Pedestrian,4,Wednesday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT,1,790277,Not at intersection,2,80,Arterial Highway
+T20230020870,6/9/2023,13:30:00,1,Collision with vehicle,4,Wednesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY),1,270353,Cross intersection,2,50,Local Road
+T20230022060,6/9/2023,07:00:00,1,Collision with vehicle,4,Wednesday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD,2,784451,T intersection,3,60,Arterial Other
+T20230020875,6/9/2023,17:40:00,1,Collision with vehicle,4,Wednesday,121,RIGHT THROUGH,2,780682,Not at intersection,3,40,Arterial Other
+T20230021680,6/9/2023,12:00:00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE),1,790138,Not at intersection,2,60,Arterial Highway
+T20230020902,6/9/2023,23:26:00,4,Collision with a fixed object,4,Wednesday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE,3,796795,Not at intersection,2,60,Arterial Other
+T20230020880,6/9/2023,17:09:00,2,Struck Pedestrian,3,Wednesday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.,2,780402,Cross intersection,3,50,Local Road
+T20230020882,6/9/2023,18:28:00,1,Collision with vehicle,4,Wednesday,121,RIGHT THROUGH,3,40700,Cross intersection,3,60,Arterial Other
+T20230020885,6/9/2023,17:10:00,4,Collision with a fixed object,4,Wednesday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE,2,794814,Not at intersection,2,60,Local Road
+T20230020887,6/9/2023,19:28:00,2,Struck Pedestrian,3,Wednesday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT,2,780404,Cross intersection,3,80,Arterial Other
+T20230020889,6/9/2023,15:18:00,2,Struck Pedestrian,3,Wednesday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT,1,782380,Cross intersection,3,80,Arterial Other
+T20230021343,6/9/2023,22:05:00,1,Collision with vehicle,3,Wednesday,121,RIGHT THROUGH,3,781346,T intersection,3,70,Arterial Other
+T20230023272,6/9/2023,16:00:00,2,Struck Pedestrian,4,Wednesday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.,1,796086,Not at intersection,3,40,Local Road
+T20230021289,6/9/2023,23:26:00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE),3,799636,Cross intersection,3,60,Arterial Other
+T20230020834,6/9/2023,07:02:00,1,Collision with vehicle,4,Wednesday,113,RIGHT NEAR (INTERSECTIONS ONLY),1,54383,Cross intersection,3,100,Freeway
+T20230020840,6/9/2023,07:05:00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE),2,780678,Not at intersection,2,80,Freeway
+T20230021281,6/9/2023,08:00:00,1,Collision with vehicle,3,Wednesday,121,RIGHT THROUGH,1,706190,T intersection,3,60,Local Road
+T20230020898,6/9/2023,15:35:00,6,Vehicle overturned (no collision),4,Wednesday,182,OFF CARRIAGEWAY ON LEFT BEND,1,796089,Not at intersection,2,80,Arterial Other
+T20230020842,6/9/2023,06:35:00,1,Collision with vehicle,4,Wednesday,121,RIGHT THROUGH,2,780401,Not at intersection,3,40,Local Road
+T20230020837,6/9/2023,07:20:00,2,Struck Pedestrian,4,Wednesday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.,1,780400,Cross intersection,2,50,Local Road
+T20230020845,6/9/2023,12:10:00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE),1,261406,Cross intersection,3,60,Arterial Other
+T20230020911,6/9/2023,16:20:00,1,Collision with vehicle,3,Wednesday,130,REAR END(VEHICLES IN SAME LANE),2,780495,T intersection,3,60,Arterial Other
+T20230020849,6/9/2023,12:51:00,2,Struck Pedestrian,3,Wednesday,108,PED STRUCK WALKING TO/FROM OR BOARDING/ALIGHTING VEHICLE.,1,791644,Not at intersection,3,80,Local Road
+T20230023138,6/9/2023,19:25:00,1,Collision with vehicle,3,Wednesday,121,RIGHT THROUGH,3,49256,Cross intersection,3,60,Arterial Highway
+T20230020855,6/9/2023,13:17:00,1,Collision with vehicle,4,Wednesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY),1,51327,Cross intersection,2,60,Local Road
+T20230020856,6/9/2023,11:47:00,1,Collision with vehicle,3,Wednesday,163,VEHICLE STRIKES DOOR OF PARKED/STATIONARY VEHICLE,1,80905,Not at intersection,3,40,Arterial Other
+T20230023966,6/9/2023,16:45:00,1,Collision with vehicle,3,Wednesday,130,REAR END(VEHICLES IN SAME LANE),1,47091,T intersection,3,60,Arterial Other
+T20230020859,6/9/2023,14:20:00,1,Collision with vehicle,3,Wednesday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD,1,790140,Not at intersection,3,60,Arterial Other
+T20230020963,7/9/2023,16:20:00,8,No collision and no object struck,4,Thursday,179,OTHER ACCIDENTS-OFF STRAIGHT NOT INCLUDED IN DCAs 170-175,1,781048,Not at intersection,3,50,Local Road
+T20230020926,7/9/2023,11:03:00,1,Collision with vehicle,5,Thursday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD,1,785451,Not at intersection,3,70,Arterial Highway
+T20230020924,7/9/2023,08:33:00,2,Struck Pedestrian,5,Thursday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT,1,337564,Cross intersection,2,40,Local Road
+T20230020915,7/9/2023,09:10:00,1,Collision with vehicle,5,Thursday,120,HEAD ON (NOT OVERTAKING),2,780594,Not at intersection,2,60,Arterial Other
+T20230020974,7/9/2023,17:30:00,4,Collision with a fixed object,5,Thursday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE,1,781477,Not at intersection,2,100,Arterial Other
+T20230029848,7/9/2023,10:10:00,1,Collision with vehicle,4,Thursday,130,REAR END(VEHICLES IN SAME LANE),1,41267,Cross intersection,3,80,Arterial Highway
+T20230020954,7/9/2023,14:25:00,1,Collision with vehicle,5,Thursday,130,REAR END(VEHICLES IN SAME LANE),1,790860,Cross intersection,3,60,Arterial Other
+T20230020958,7/9/2023,11:27:00,1,Collision with vehicle,4,Thursday,111,RIGHT FAR (INTERSECTIONS ONLY),1,72296,Y intersection,3,50,Local Road
+T20230020945,7/9/2023,13:55:00,1,Collision with vehicle,5,Thursday,132,RIGHT REAR.,1,780837,Not at intersection,3,60,Arterial Other
+T20230020944,7/9/2023,13:02:00,8,No collision and no object struck,5,Thursday,174,OUT OF CONTROL ON CARRIAGEWAY (ON STRAIGHT),1,792216,Not at intersection,2,60,Arterial Other
+T20230020914,7/9/2023,08:30:00,1,Collision with vehicle,5,Thursday,110,CROSS TRAFFIC(INTERSECTIONS ONLY),1,784759,Cross intersection,2,100,Local Road
+T20230020939,7/9/2023,10:30:00,1,Collision with vehicle,4,Thursday,121,RIGHT THROUGH,1,113779,Not at intersection,2,50,Arterial Other
+T20230020912,7/9/2023,08:00:00,1,Collision with vehicle,5,Thursday,140,U TURN,2,780406,Not at intersection,2,60,Local Road
+T20230021661,7/9/2023,09:00:00,1,Collision with vehicle,4,Thursday,130,REAR END(VEHICLES IN SAME LANE),1,790975,Cross intersection,3,80,Arterial Other
+T20230022537,7/9/2023,07:30:00,1,Collision with vehicle,5,Thursday,130,REAR END(VEHICLES IN SAME LANE),2,782387,Not at intersection,2,100,Freeway
+T20230020908,7/9/2023,07:27:00,1,Collision with vehicle,5,Thursday,130,REAR END(VEHICLES IN SAME LANE),2,780776,Not at intersection,3,70,Local Road
+T20230022523,7/9/2023,19:20:00,1,Collision with vehicle,4,Thursday,130,REAR END(VEHICLES IN SAME LANE),2,781875,Y intersection,3,40,Arterial Other
+T20230020964,7/9/2023,17:30:00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH,2,279266,Cross intersection,2,50,Arterial Other
+T20230020933,7/9/2023,11:54:00,2,Struck Pedestrian,5,Thursday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT,1,42815,Cross intersection,2,80,Arterial Highway
+T20230021251,7/9/2023,20:00:00,1,Collision with vehicle,4,Thursday,130,REAR END(VEHICLES IN SAME LANE),3,780669,T intersection,3,80,Arterial Highway
+T20230020966,7/9/2023,15:03:00,1,Collision with vehicle,5,Thursday,130,REAR END(VEHICLES IN SAME LANE),1,780665,T intersection,3,50,Local Road
+T20230021233,7/9/2023,04:30:00,1,Collision with vehicle,4,Thursday,130,REAR END(VEHICLES IN SAME LANE),2,797883,Not at intersection,3,80,Arterial Highway
+T20230020991,7/9/2023,04:50:00,1,Collision with vehicle,5,Thursday,120,HEAD ON (NOT OVERTAKING),5,780497,Not at intersection,2,80,Arterial Other
+T20230020934,7/9/2023,10:50:00,1,Collision with vehicle,5,Thursday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD,1,799702,Not at intersection,3,60,Local Road
+T20230020981,7/9/2023,19:40:00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH,2,780477,T intersection,2,50,Local Road
+T20230021010,7/9/2023,18:00:00,1,Collision with vehicle,5,Thursday,130,REAR END(VEHICLES IN SAME LANE),2,780478,Not at intersection,3,80,Arterial Other
+T20230020982,7/9/2023,18:00:00,6,Vehicle overturned (no collision),4,Thursday,180,OFF CARRIAGEWAY ON RIGHT BEND,2,783882,Not at intersection,3,100,Arterial Other
+T20230020983,7/9/2023,19:22:00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH,2,780582,Y intersection,3,80,Arterial Highway
+T20230020995,7/9/2023,22:00:00,1,Collision with vehicle,5,Thursday,111,RIGHT FAR (INTERSECTIONS ONLY),3,44667,T intersection,2,60,Arterial Other
+T20230020975,7/9/2023,18:35:00,2,Struck Pedestrian,5,Thursday,109,ANY MANOEUVRE INVOLVING PED NOT INCLUDED IN DCAs 100-108.,2,44222,Cross intersection,2,40,Arterial Other
